@@ -52,14 +52,9 @@ Windows11Upgrade is free and open source software, it is using the GPL-3.0 licen
 <h3>Download</h3>
 
 <h3>Windows11Upgrade CZ:</h3>
-
-<a href="[/1LiveGo/Windows11Upgrade/releases/download/Windows11Upgrade/Windows11Upgrade_CZ.zip](https://github.com/1LiveGo/Windows11Upgrade/releases/download/Windows11Upgrade/Windows11Upgrade_CZ.zip)" rel="nofollow" data-skip-pjax="">
-<span class="px-1 text-bold">Windows11Upgrade_CZ.zip</span>
-
 <h3>Windows11Upgrade EN:</h3>
 
-<a href="[/1LiveGo/Windows11Upgrade/releases/download/Windows11Upgrade/Windows11Upgrade_EN.zip](https://github.com/1LiveGo/Windows11Upgrade/releases/download/Windows11Upgrade/Windows11Upgrade_EN.zip)" rel="nofollow" data-skip-pjax="">
-<span class="px-& text-bold">Windows11Upgrade_EN.zip</span>
+https://github.com/1LiveGo/Windows11Upgrade/releases/tag/Windows11Upgrade
 
 <h3>Packages</h3>
 
